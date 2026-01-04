@@ -30,8 +30,8 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/matibilkis/qml-course.git
-cd qml-course
+git clone https://github.com/matibilkis/intro-2-QML.git
+cd intro-2-QML
 
 # Install dependencies
 pip install -r requirements.txt
@@ -178,7 +178,7 @@ gamma, beta, cost = optimize_qaoa(
 ## 📊 Repository Structure
 
 ```
-qml-course/
+intro-2-QML/
 ├── 📁 modules/
 │   ├── 📁 01_custom_simulator/    # Custom quantum simulator
 │   ├── 📁 02_pennylane/           # PennyLane examples

@@ -1,0 +1,19 @@
+# Force GitHub to recognize Python files
+*.py linguist-detectable=true
+*.ipynb linguist-detectable=false
+*.md linguist-detectable=false
+*.txt linguist-detectable=false
+*.yml linguist-detectable=false
+*.yaml linguist-detectable=false
+
+# Exclude certain files from language stats
+*.pdf linguist-generated=true
+*.png linguist-generated=true
+*.jpg linguist-generated=true
+*.jpeg linguist-generated=true
+*.gif linguist-generated=true
+
+# Documentation
+*.md linguist-documentation=true
+README.md linguist-documentation=true
+

@@ -17,6 +17,7 @@ htmlcov/
 # Jupyter
 .ipynb_checkpoints
 *.ipynb
+!tutorial.ipynb  # Keep tutorial.ipynb if you want to preserve it, otherwise remove this line
 
 # IDEs
 .vscode/
